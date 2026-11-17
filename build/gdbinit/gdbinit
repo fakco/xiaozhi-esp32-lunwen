@@ -1,0 +1,2 @@
+source /home/fwtree/xiaozhi-esp32/build/gdbinit/symbols
+source /home/fwtree/xiaozhi-esp32/build/gdbinit/connect

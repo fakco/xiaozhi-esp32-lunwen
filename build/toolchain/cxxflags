@@ -1,0 +1,7 @@
+-mdisable-hardware-atomics
+"-specs=/home/fwtree/xiaozhi-esp32/build/specs/picolibc.specs"
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+-fno-rtti
